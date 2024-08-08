@@ -1,0 +1,19 @@
+.background {
+    background-color: #c8545c;
+    font-family: 'Verdana', 'DeJavu Sans', sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
